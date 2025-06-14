@@ -15,7 +15,6 @@ html, body, #root {
   font-family: 'Arial', sans-serif;
 }
 
-/* Header */
 .header {
   height: 3vh;
   min-height: 60px;
@@ -70,14 +69,12 @@ html, body, #root {
   background-color: rgba(255, 255, 255, 0.2);
 }
 
-/* Main content */
 .main {
   display: flex;
   flex: 1;
   min-height: 89vh;
 }
 
-/* Left section */
 .section {
   width: 20%;
   background-color: #0055A4;
@@ -108,7 +105,6 @@ html, body, #root {
   font-weight: bold;
 }
 
-/* Center article */
 .article {
   width: 60%;
   background-color: #F8FAFC;
@@ -139,7 +135,6 @@ html, body, #root {
   transform: translateX(5px);
 }
 
-/* Right aside */
 .aside {
   width: 20%;
   background-color: #6D1D1D;
@@ -167,7 +162,6 @@ html, body, #root {
   font-size: 14px;
 }
 
-/* Banners */
 .banner {
   margin-top: auto;
   height: 120px;
@@ -180,7 +174,6 @@ html, body, #root {
   border: 1px dashed rgba(255, 255, 255, 0.3);
 }
 
-/* Footer */
 .footer {
   height: 4vh;
   min-height: 50px;
